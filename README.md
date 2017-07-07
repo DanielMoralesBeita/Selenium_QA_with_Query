@@ -11,8 +11,13 @@ In folder DRIVERS in C:.
 
 2-Write your test.
 
+3-Run test in VS in 
+
+4-You see the picture in C:\Screenshots\Firefox
+
 # Tips
 1- You see folder with example.
 
 # Support
 Only Firefox for moment.
+
