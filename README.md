@@ -6,7 +6,9 @@ You have a selenium web driver in this page http://www.seleniumhq.org/projects/w
 In folder DRIVERS in C:.
 
 # How to use
+
 1-Download the project or clone.
+
 2-Write your test.
 
 # Tips
